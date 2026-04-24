@@ -49,8 +49,3 @@ Projeto_PensamentoComputacional_LargaEscala/
 ├── Diagrama.png           # Diagrama UML ou fluxograma
 ├── Desafios.md            # Lista de desafios e soluções propostas
 └── src/                   # (Opcional) Protótipo ou código inicial
- 
-📅 Entrega
-Data: Aula de 23/04/2026
-Local: Repositório GitHub da disciplina
-Commit: "Entrega Projeto Aula – Pensamento Computacional para Sistemas de Larga Escala"
