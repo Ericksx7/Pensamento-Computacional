@@ -1,51 +1,15 @@
-Projeto – Pensamento Computacional para Sistemas de Larga Escala
-Descrição
-Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional no curso de Engenharia de Software, com a Profa. Kadidja Valéria
-
-O objetivo é aplicar os conceitos de pensamento computacional e engenharia de software na concepção de um sistema de larga escala, explorando decomposição, abstração, reconhecimento de padrões e algoritmos.
-
-Objetivos
-Relacionar engenharia de software e pensamento computacional.
-Reconhecer princípios e padrões relevantes para sistemas de larga escala.
-Identificar dificuldades reais no desenvolvimento de aplicações complexas.
-Aplicar metodologias ágeis no planejamento do projeto.
-Sistema Proposto
-Nome do Sistema: Plataforma Acadêmica Inteligente
-
-Descrição:
-
-Uma aplicação web para gestão acadêmica que integra:
-
-Cadastro e autenticação de usuários.
-Módulo de disciplinas e notas.
-Sistema de recomendações personalizadas (IA).
-Painel de relatórios para coordenação.
-Pensamento Computacional Aplicado
-Decomposição:
-Autenticação
-Gestão de disciplinas
-Relatórios
-Recomendação inteligente
-Reconhecimento de Padrões:
-Login semelhante a sistemas bancários.
-Estrutura de notas inspirada em LMS (Blackboard, Moodle).
-Abstração:
-Diagrama simplificado em UML para representar módulos principais.
-Algoritmos:
-Fluxo de cálculo de médias e recomendações personalizadas.
-Metodologia de Desenvolvimento
-Metodologia: Scrum
-Sprints: 2 semanas
-Ferramentas: GitHub Projects, Issues, Kanban
-Desafios Identificados
-Escalabilidade para milhares de usuários simultâneos.
-Segurança de dados sensíveis (princípios de Saltzer & Schroeder).
-Integração com sistemas externos (bibliotecas digitais, APIs).
-📂 Estrutura do Repositório
-Projeto_PensamentoComputacional_LargaEscala/
-│
-├── README.md              # Documentação principal
-├── Design.md              # Decomposição, abstração e padrões aplicados
-├── Diagrama.png           # Diagrama UML ou fluxograma
-├── Desafios.md            # Lista de desafios e soluções propostas
-└── src/                   # (Opcional) Protótipo ou código inicial
+Projeto: Plataforma Inteligente de Disponibilidade de Medicamentos
+​Descrição Geral:
+Aplicação web e mobile focada na gestão e consulta de medicamentos no sistema público de saúde. O sistema integra cadastro de usuários, consulta a unidades de saúde (UBS e Farmácia Popular), notificações em tempo real e relatórios para gestores.  
+​Pensamento Computacional Aplicado
+​Decomposição: O sistema é dividido em módulos de autenticação, consulta, gestão de estoque, notificações, relatórios e recomendações inteligentes.  
+​Reconhecimento de Padrões: Utiliza modelos de login bancário, consultas inspiradas em apps de delivery/localização e notificações padrão mobile.  
+​Abstração: Modelagem UML simplificada focada em usuário, medicamento, unidade de saúde e estoque.  
+​Algoritmos: Focados em busca de itens, verificação de disponibilidade, recomendação de alternativas e atualizações de estoque.  
+​Metodologia de Desenvolvimento
+​Framework: Scrum.  
+​Ciclos: Sprints de 2 semanas.  
+​Organização: Utilização de quadros Kanban.  
+​Destaques Tecnológicos e Desafios
+​Inovação: Inclusão de um Sistema de recomendações inteligentes baseado em IA.  
+​Desafios Críticos: Escalabilidade, segurança de dados (conformidade com a LGPD), integração com sistemas do SUS e a atualização de estoques em tempo real.  
